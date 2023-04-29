@@ -104,7 +104,8 @@ int main(int argc, char *argv[])
             cout << "\n";
         }
     }
-    //  world = future;
+    // testing
+    //   world = future;
     printGen(currentgen);
     return 0;
 }
